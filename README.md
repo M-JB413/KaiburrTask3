@@ -7,7 +7,7 @@ Ensure that node and npm are installed in the system.
 
 
 ### Ways to run the REST API locally on your system
-&emsp;1. Use git clone https://github.com/M-JB413/KaiburrAssignment.git to download the files locally and then import the folder inside Eclipse.  
+&emsp;1. Use git clone https://github.com/M-JB413/KaiburrTask3.git to download the files locally and then import the folder inside Eclipse.  
 &emsp;2. cd into the ReactUI Directory.  
 &emsp;3. Run npm install in the terminal.    
 &emsp;4. Run npm run dev  
