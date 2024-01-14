@@ -1,0 +1,14 @@
+.forms{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  position: fixed;
+  height:100vh;
+  margin: 0;
+  border-right: 1px solid #ccc;
+}
+.info{
+  width: 50%;
+  position: absolute;
+  right: 0;
+}

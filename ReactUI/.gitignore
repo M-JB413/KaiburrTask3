@@ -1,0 +1,66 @@
+Tasks/HELP.md
+Tasks/target/
+Tasks/!.mvn/wrapper/maven-wrapper.jar
+Tasks/!**/src/main/**/target/
+Tasks/!**/src/test/**/target/
+
+### STS ###
+Tasks/.apt_generated
+Tasks/.classpath
+Tasks/.factorypath
+Tasks/.project
+Tasks/.settings
+Tasks/.springBeans
+Tasks/.sts4-cache
+
+### IntelliJ IDEA ###
+Tasks/.idea
+Tasks/*.iws
+Tasks/*.iml
+Tasks/*.ipr
+
+### NetBeans ###
+Tasks/nbproject/private/
+Tasks/nbbuild/
+Tasks/dist/
+Tasks/nbdist/
+Tasks/.nb-gradle/
+Tasks/build/
+Tasks/!**/src/main/**/build/
+Tasks/!**/src/test/**/build/
+
+### VS Code ###
+Tasks/.vscode/
+
+### ENV ###
+Tasks/.env
+
+.metadata
+
+
+### React ###
+# Task3 Logs
+Task3/logs
+Task3/*.log
+Task3/npm-debug.log*
+Task3/yarn-debug.log*
+Task3/yarn-error.log*
+Task3/pnpm-debug.log*
+Task3/lerna-debug.log*
+
+# Task3 Node Modules
+Task3/node_modules
+Task3/dist
+Task3/dist-ssr
+Task3/*.local
+
+# Task3 Editor directories and files
+Task3/.vscode/*
+Task3/!.vscode/extensions.json
+Task3/.idea
+Task3/.DS_Store
+Task3/*.suo
+Task3/*.ntvs*
+Task3/*.njsproj
+Task3/*.sln
+Task3/*.sw?

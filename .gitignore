@@ -1,0 +1,26 @@
+### React ###
+# ReactUI Logs
+ReactUI/logs
+ReactUI/*.log
+ReactUI/npm-debug.log*
+ReactUI/yarn-debug.log*
+ReactUI/yarn-error.log*
+ReactUI/pnpm-debug.log*
+ReactUI/lerna-debug.log*
+
+# ReactUI Node Modules
+ReactUI/node_modules
+ReactUI/dist
+ReactUI/dist-ssr
+ReactUI/*.local
+
+# ReactUI Editor directories and files
+ReactUI/.vscode/*
+ReactUI/!.vscode/extensions.json
+ReactUI/.idea
+ReactUI/.DS_Store
+ReactUI/*.suo
+ReactUI/*.ntvs*
+ReactUI/*.njsproj
+ReactUI/*.sln
+ReactUI/*.sw?
