@@ -16,17 +16,22 @@ Ensure that node and npm are installed in the system.
 ### Screenshots
 
 #### Get all the documents from the database
-![GetAllUI](https://github.com/M-JB413/KaiburrAssignment/assets/83492132/7e114ea4-30e8-489a-bbe7-8920278471c0)
+![GetAllUI](https://github.com/M-JB413/KaiburrTask3/assets/83492132/4914c727-3d95-4174-a1f4-66d88a23f96d)
+
 
 #### Create a document in the database
-![CreateUI](https://github.com/M-JB413/KaiburrAssignment/assets/83492132/c5a03447-71a6-43cc-bf8a-6c9a370777e5)
+![CreateUI](https://github.com/M-JB413/KaiburrTask3/assets/83492132/073ba08c-ae5c-4b20-b7a5-5f59bec39be9)
+
 
 #### Get documents that contain the search substring in the name field
-![GetNameUI](https://github.com/M-JB413/KaiburrAssignment/assets/83492132/15a72372-d7b5-46b5-b6ed-f1502da7e7d2)
+![GetNameUI](https://github.com/M-JB413/KaiburrTask3/assets/83492132/e832ce52-73dd-4d27-b55b-eeccfd1c373e)
+
 
 #### Get documents that equal the search string in the assignee field
-![GetAssigneeUI](https://github.com/M-JB413/KaiburrAssignment/assets/83492132/d2dda510-b776-474a-ae6c-53fa0a11a5bb)
+![GetAssigneeUI](https://github.com/M-JB413/KaiburrTask3/assets/83492132/a031a924-5b7f-40a9-9283-7ebcab8061c8)
+
 
 #### Delete the document with a given ID
-![DeleteUI1](https://github.com/M-JB413/KaiburrAssignment/assets/83492132/ec87a58a-895d-48f8-a957-2b38a1f30dff)
-![DeleteUI2](https://github.com/M-JB413/KaiburrAssignment/assets/83492132/f557d009-4298-45f3-ac5e-71cba372b02d)
+![DeleteUI1](https://github.com/M-JB413/KaiburrTask3/assets/83492132/02fca4bc-1729-421c-82ea-cd5e9310b440)
+![DeleteUI2](https://github.com/M-JB413/KaiburrTask3/assets/83492132/69f428f9-4899-4920-b5b7-37bb0f7ce195)
+
